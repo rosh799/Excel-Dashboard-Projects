@@ -6,6 +6,7 @@ Road Accident Dashboard
 
 I collected and cleaned Road Accident Dashboard in Excel analyzes accident data, displaying total casualties, severity levels, and vehicle types involved. It features charts and graphs to track monthly trends, casualties by region, light conditions, and road type. This visualization aids in identifying accident patterns and enhancing road safety measures for informed decision-making to prevent future accident.
 
+![Uploading Road Accident .png…]()
 
 
 
